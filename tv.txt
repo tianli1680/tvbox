@@ -2,8 +2,8 @@
 {
 "spider":"./jar/spider.jar",
 "wallpaper":"https://api.likepoems.com/img/bing",
-  "lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}
-    //{
+  "lives": [
+    {
       "name": "直播",
       "type": 0,
       "url": "./live.txt",
