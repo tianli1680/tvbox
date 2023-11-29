@@ -19,7 +19,6 @@
   ],
 
 "sites":[
- {"key":"pwd_91md","name":"🔞91麻豆1","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"豆瓣","name":"豆瓣｜评分","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
 {"key":"Aid","name":"急救｜指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":0,"changeable":0,"style": {"type": "rect", "ratio":3.8},"jar":"./jar/fan.txt"},
