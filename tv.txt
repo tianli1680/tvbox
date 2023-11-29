@@ -20,7 +20,7 @@
 
 "sites":[
 
-{"key":"测试","name":"测试｜影视","api":"https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
+{"key":"测试","name":"测试｜影视","api":"http://52bsj.vip:98/wuai","type":3,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.tvkuys.xyz/api.php/app/"},
 
 {"key":"豆瓣","name":"豆瓣｜评分","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
 {"key":"Aid","name":"急救｜指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":0,"changeable":0,"style": {"type": "rect", "ratio":3.8},"jar":"./jar/fan.txt"},
