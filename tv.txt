@@ -19,6 +19,8 @@
   ],
 
 "sites":[
+ {"key":"pwd_91md","name": "🔞91麻豆1","type": 1,"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable": 1,"quickSearch": 1,"filterable": 1}
+
 {"key":"豆瓣","name":"豆瓣｜评分","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
 {"key":"Aid","name":"急救｜指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":0,"changeable":0,"style": {"type": "rect", "ratio":3.8},"jar":"./jar/fan.txt"},
 {"key":"bilibili","name":"哔哩｜娱乐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":1.597},"ext":{"json":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/JS/哔哩哔哩.json","cookie":"http://127.0.0.1:9978/file/TVBox/bili.txt"},"jar":"./jar/928.jar"},
