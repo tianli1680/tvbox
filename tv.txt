@@ -7,7 +7,8 @@
       "name": "直播",
       "type": 0,
       //"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
-      "url": "./live.txt",
+      "url": "https://agit.ai/Yoursmile7/TVBox/raw/commit/ee863161482fbc7be5f6df2d4338eeb1489b7a38/live.txt",
+      //"url": "./live.txt",
       "playerType": 1,
       "header": {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36"
