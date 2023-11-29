@@ -1,3 +1,4 @@
+{
 #EXTM3U
 #EXTINF:-1 ,成人_1
 http://10238.vod.adultiptv.net/ph5bb3807112cac/play.m3u8
@@ -11833,3 +11834,4 @@ https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/qy/yi/94/89/6dc3c8cb9112436682
 https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/sz/rp/ga/df/d7cc96217cf5466d9f6fe08a328cee51.m3u8?
 #EXTINF:-1 ,成人_8652
 https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/yu/mt/0k/df/68768a0f7843400c91a65843e069f9fa.m3u8?
+}
