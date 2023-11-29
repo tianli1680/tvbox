@@ -22,6 +22,11 @@
 
 {"key":"豆瓣","name":"豆瓣｜评分","type":3,"api":"./JS/drpy.min.js","ext":"./JS/豆瓣.js"},
 
+
+#动漫
+
+#云盘
+
 ],
 
 "parses":[
